@@ -1,3 +1,3 @@
 # firstrepo
-this is my first git repository
-author - me
+This is my first git repository.
+Author - me
